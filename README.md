@@ -14,3 +14,5 @@ I am still making improvements to the model training as the outcome is currently
 Changes I am working on:
 1.More variety in annual reports, more companies, futher back in time, etc.
 2. Just understand the training more, think there is still a lot to be done here.
+
+Note: This is my first full individual machine learning project outside of the classroom/research so I would appreciate any notes or advice.
