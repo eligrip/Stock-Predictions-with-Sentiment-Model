@@ -1,0 +1,127 @@
+Ticker,Date,Quarter,Stock Price Change,URL,Report_Text
+JMIA,2024-11-07,Q3 2024,24.881935190452253,https://www.fool.com/earnings/call-transcripts/2024/11/07/jumia-technologies-ag-jmia-q3-2024-earnings-call-t/,output_JMIA_2024-11-07.txt
+HL,2024-11-07,Q3 2024,4.4706704142582225,https://www.fool.com/earnings/call-transcripts/2024/11/07/hecla-mining-hl-q3-2024-earnings-call-transcript/,output_HL_2024-11-07.txt
+PLYM,2024-11-07,Q3 2024,-8.99446351765855,https://www.fool.com/earnings/call-transcripts/2024/11/07/plymouth-industrial-reit-plym-q3-2024-earnings-cal/,output_PLYM_2024-11-07.txt
+HAL,2024-11-07,Q3 2024,-3.953552892247608,https://www.fool.com/earnings/call-transcripts/2024/11/07/halliburton-hal-q3-2024-earnings-call-transcript/,output_HAL_2024-11-07.txt
+MRNA,2024-11-07,Q3 2024,5.7949185507671865,https://www.fool.com/earnings/call-transcripts/2024/11/07/moderna-mrna-q3-2024-earnings-call-transcript/,output_MRNA_2024-11-07.txt
+YETI,2024-11-07,Q3 2024,4.291018620381889,https://www.fool.com/earnings/call-transcripts/2024/11/07/yeti-yeti-q3-2024-earnings-call-transcript/,output_YETI_2024-11-07.txt
+KVUE,2024-08-06,Q2 2024,8.425661011304552,https://www.fool.com/earnings/call-transcripts/2024/08/06/kenvue-kvue-q2-2024-earnings-call-transcript/,output_KVUE_2024-08-06.txt
+KVUE,2024-11-07,Q3 2024,-5.067773797029815,https://www.fool.com/earnings/call-transcripts/2024/11/07/kenvue-kvue-q3-2024-earnings-call-transcript/,output_KVUE_2024-11-07.txt
+DDOG,2024-11-07,Q3 2024,30.745517460145557,https://www.fool.com/earnings/call-transcripts/2024/11/07/datadog-ddog-q3-2024-earnings-call-transcript/,output_DDOG_2024-11-07.txt
+DDOG,2024-02-13,Q4 2023,-9.56675680153926,https://www.fool.com/earnings/call-transcripts/2024/02/13/datadog-ddog-q4-2023-earnings-call-transcript/,output_DDOG_2024-02-13.txt
+DT,2024-11-07,Q2 2025,6.37852683541988,https://www.fool.com/earnings/call-transcripts/2024/11/07/dynatrace-dt-q2-2025-earnings-call-transcript/,output_DT_2024-11-07.txt
+SRAD,2024-11-07,Q3 2024,1.7319593271424452,https://www.fool.com/earnings/call-transcripts/2024/11/07/sportradar-group-ag-srad-q3-2024-earnings-call-tra/,output_SRAD_2024-11-07.txt
+WD,2024-11-07,Q3 2024,-4.050516884372875,https://www.fool.com/earnings/call-transcripts/2024/11/07/walker-dunlop-wd-q3-2024-earnings-call-transcript/,output_WD_2024-11-07.txt
+OB,2024-11-07,Q3 2024,26.63225447269388,https://www.fool.com/earnings/call-transcripts/2024/11/07/outbrain-ob-q3-2024-earnings-call-transcript/,output_OB_2024-11-07.txt
+SRPT,2024-05-01,Q1 2024,-5.926596815588136,https://www.fool.com/earnings/call-transcripts/2024/05/01/sarepta-therapeutics-srpt-q1-2024-earnings-call-tr/,output_SRPT_2024-05-01.txt
+LYFT,2024-11-07,Q3 2024,-13.307166353250713,https://www.fool.com/earnings/call-transcripts/2024/11/07/lyft-lyft-q3-2024-earnings-call-transcript/,output_LYFT_2024-11-07.txt
+KVYO,2024-11-07,Q3 2024,14.172302848899244,https://www.fool.com/earnings/call-transcripts/2024/11/07/klaviyo-kvyo-q3-2024-earnings-call-transcript/,output_KVYO_2024-11-07.txt
+SITM,2024-11-07,Q3 2024,16.190519915713004,https://www.fool.com/earnings/call-transcripts/2024/11/07/sitime-sitm-q3-2024-earnings-call-transcript/,output_SITM_2024-11-07.txt
+EBS,2024-11-07,Q2 2025,-27.805753076499627,https://www.fool.com/earnings/call-transcripts/2024/11/07/emergent-biosolutions-ebs-q3-2024-earnings-call-tr/,output_EBS_2024-11-07.txt
+EBS,2024-05-01,Q1 2024,41.12537334865455,https://www.fool.com/earnings/call-transcripts/2024/05/01/emergent-biosolutions-ebs-q1-2024-earnings-call-tr/,output_EBS_2024-05-01.txt
+PYCR,2024-11-07,Q1 2025,8.507856131952737,https://www.fool.com/earnings/call-transcripts/2024/11/07/paycor-hcm-pycr-q1-2025-earnings-call-transcript/,output_PYCR_2024-11-07.txt
+FSLY,2024-11-07,Q3 2024,56.95001381463947,https://www.fool.com/earnings/call-transcripts/2024/11/07/fastly-fsly-q3-2024-earnings-call-transcript/,output_FSLY_2024-11-07.txt
+FSLY,2024-05-01,Q1 2024,-12.79684746274454,https://www.fool.com/earnings/call-transcripts/2024/05/01/fastly-fsly-q1-2024-earnings-call-transcript/,output_FSLY_2024-05-01.txt
+FRSH,2024-11-07,Q3 2024,0.8889358988290106,https://www.fool.com/earnings/call-transcripts/2024/11/07/freshworks-frsh-q3-2024-earnings-call-transcript/,output_FRSH_2024-11-07.txt
+UPWK,2024-11-07,Q3 2024,9.080511360128831,https://www.fool.com/earnings/call-transcripts/2024/11/07/upwork-upwk-q3-2024-earnings-call-transcript/,output_UPWK_2024-11-07.txt
+BMBL,2024-11-06,Q3 2024,-8.291123813038789,https://www.fool.com/earnings/call-transcripts/2024/11/07/bumble-bmbl-q3-2024-earnings-call-transcript/,output_BMBL_2024-11-06.txt
+SSRM,2024-11-06,Q3 2024,13.524771775949183,https://www.fool.com/earnings/call-transcripts/2024/11/06/ssr-mining-ssrm-q3-2024-earnings-call-transcript/,output_SSRM_2024-11-06.txt
+SEDG,2024-11-06,Q3 2024,-8.09041018236618,https://www.fool.com/earnings/call-transcripts/2024/11/06/solaredge-technologies-sedg-q3-2024-earnings-call/,output_SEDG_2024-11-06.txt
+DUOL,2024-11-06,Q3 2024,14.285288002134005,https://www.fool.com/earnings/call-transcripts/2024/11/06/duolingo-duol-q3-2024-earnings-call-transcript/,output_DUOL_2024-11-06.txt
+COOK,2024-11-06,Q3 2024,-0.2252786615009463,https://www.fool.com/earnings/call-transcripts/2024/11/06/traeger-cook-q3-2024-earnings-call-transcript/,output_COOK_2024-11-06.txt
+BIRD,2024-11-06,Q3 2024,-3.2636473948990914,https://www.fool.com/earnings/call-transcripts/2024/11/06/allbirds-bird-q3-2024-earnings-call-transcript/,output_BIRD_2024-11-06.txt
+TTWO,2024-11-06,Q2 2025,4.2413743562112,https://www.fool.com/earnings/call-transcripts/2024/11/06/take-two-interactive-software-ttwo-q2-2025-earning/,output_TTWO_2024-11-06.txt
+LAW,2024-11-06,Q3 2024,-0.8414346557171591,https://www.fool.com/earnings/call-transcripts/2024/11/06/cs-disco-law-q3-2024-earnings-call-transcript/,output_LAW_2024-11-06.txt
+LAW,2024-08-08,Q2 2024,1.0447432441873752,https://www.fool.com/earnings/call-transcripts/2024/08/08/cs-disco-law-q2-2024-earnings-call-transcript/,output_LAW_2024-08-08.txt
+BYND,2024-11-06,Q3 2024,-15.173693935375514,https://www.fool.com/earnings/call-transcripts/2024/11/06/beyond-meat-bynd-q3-2024-earnings-call-transcript/,output_BYND_2024-11-06.txt
+PTC,2024-11-06,Q4 2024,2.0075282692794727,https://www.fool.com/earnings/call-transcripts/2024/11/06/ptc-ptc-q4-2024-earnings-call-transcript/,output_PTC_2024-11-06.txt
+MCK,2024-11-06,Q2 2025,-3.3596719726550957,https://www.fool.com/earnings/call-transcripts/2024/11/06/mckesson-mck-q2-2025-earnings-call-transcript/,output_MCK_2024-11-06.txt
+HUBS,2024-11-06,Q3 2024,7.431094263058638,https://www.fool.com/earnings/call-transcripts/2024/11/06/hubspot-hubs-q3-2024-earnings-call-transcript/,output_HUBS_2024-11-06.txt
+APP,2024-11-06,Q3 2024,38.66240927592195,https://www.fool.com/earnings/call-transcripts/2024/11/06/applovin-app-q3-2024-earnings-call-transcript/,output_APP_2024-11-06.txt
+GILD,2024-11-06,Q3 2024,-6.561446840799089,https://www.fool.com/earnings/call-transcripts/2024/11/06/gilead-sciences-gild-q3-2024-earnings-call-transcr/,output_GILD_2024-11-06.txt
+COHR,2024-11-06,Q1 2025,4.765411203688275,https://www.fool.com/earnings/call-transcripts/2024/11/06/coherent-cohr-q1-2025-earnings-call-transcript/,output_COHR_2024-11-06.txt
+DV,2024-11-06,Q3 2024,1.1201236585542778,https://www.fool.com/earnings/call-transcripts/2024/11/06/doubleverify-dv-q3-2024-earnings-call-transcript/,output_DV_2024-11-06.txt
+ET,2024-11-06,Q3 2024,10.205481387859244,https://www.fool.com/earnings/call-transcripts/2024/11/06/energy-transfer-et-q3-2024-earnings-call-transcrip/,output_ET_2024-11-06.txt
+BROS,2024-11-06,Q3 2024,12.320087367586282,https://www.fool.com/earnings/call-transcripts/2024/11/06/dutch-bros-bros-q3-2024-earnings-call-transcript/,output_BROS_2024-11-06.txt
+MELI,2024-11-06,Q3 2024,-2.224301188801726,https://www.fool.com/earnings/call-transcripts/2024/11/06/mercadolibre-meli-q3-2024-earnings-call-transcript/,output_MELI_2024-11-06.txt
+ARM,2024-11-06,Q2 2025,-2.2686855422514776,https://www.fool.com/earnings/call-transcripts/2024/11/06/arm-holdings-arm-q2-2025-earnings-call-transcript/,output_ARM_2024-11-06.txt
+DKL,2024-11-06,Q3 2024,1.4297147463117423,https://www.fool.com/earnings/call-transcripts/2024/11/06/delek-logistics-partners-dkl-q3-2024-earnings-call/,output_DKL_2024-11-06.txt
+DKL,2023-11-07,Q3 2023,-2.8007105235227394,https://www.fool.com/earnings/call-transcripts/2023/11/07/delek-logistics-partners-dkl-q3-2023-earnings-call/,output_DKL_2023-11-07.txt
+ACB,2024-11-06,Q2 2025,-7.5784132959443244,https://www.fool.com/earnings/call-transcripts/2024/11/06/aurora-cannabis-acb-q2-2025-earnings-call-transcri/,output_ACB_2024-11-06.txt
+QCOM,2024-11-06,Q4 2024,-6.232831842714328,https://www.fool.com/earnings/call-transcripts/2024/11/06/qualcomm-qcom-q4-2024-earnings-call-transcript/,output_QCOM_2024-11-06.txt
+SMG,2024-11-06,Q4 2024,0.837231646690149,https://www.fool.com/earnings/call-transcripts/2024/11/06/scotts-miracle-gro-smg-q4-2024-earnings-call-trans/,output_SMG_2024-11-06.txt
+LINE,2024-11-06,Q3 2024,-8.447789966115028,https://www.fool.com/earnings/call-transcripts/2024/11/06/lineage-line-q3-2024-earnings-call-transcript/,output_LINE_2024-11-06.txt
+MAC,2024-11-06,Q3 2024,8.433841765576828,https://www.fool.com/earnings/call-transcripts/2024/11/06/macerich-mac-q3-2024-earnings-call-transcript/,output_MAC_2024-11-06.txt
+CNDT,2024-11-06,Q3 2024,-7.572059112580401,https://www.fool.com/earnings/call-transcripts/2024/11/06/conduent-cndt-q3-2024-earnings-call-transcript/,output_CNDT_2024-11-06.txt
+FUN,2024-11-06,Q3 2024,1.7213930824916617,https://www.fool.com/earnings/call-transcripts/2024/11/06/cedar-fair-fun-q3-2024-earnings-call-transcript/,output_FUN_2024-11-06.txt
+DVN,2024-11-06,Q3 2024,-11.701394087793677,https://www.fool.com/earnings/call-transcripts/2024/11/06/devon-energy-dvn-q3-2024-earnings-call-transcript/,output_DVN_2024-11-06.txt
+PERI,2024-11-06,Q3 2024,0.6233787748970392,https://www.fool.com/earnings/call-transcripts/2024/11/06/perion-network-peri-q3-2024-earnings-call-transcri/,output_PERI_2024-11-06.txt
+PAAS,2024-11-06,Q3 2024,0.7015404402267476,https://www.fool.com/earnings/call-transcripts/2024/11/06/pan-american-silver-paas-q3-2024-earnings-call-tra/,output_PAAS_2024-11-06.txt
+CVS,2024-08-07,Q2 2024,2.1465483331775577,https://www.fool.com/earnings/call-transcripts/2024/08/07/cvs-health-cvs-q2-2024-earnings-call-transcript/,output_CVS_2024-08-07.txt
+IRM,2024-08-01,Q2 2024,-0.3895512541583308,https://www.fool.com/earnings/call-transcripts/2024/08/01/iron-mountain-irm-q2-2024-earnings-call-transcript/,output_IRM_2024-08-01.txt
+NVO,2024-08-07,Q2 2024,0.010716358080292,https://www.fool.com/earnings/call-transcripts/2024/08/07/novo-nordisk-nvo-q2-2024-earnings-call-transcript/,output_NVO_2024-08-07.txt
+JCI,2024-07-31,Q3 2024,1.917002615347494,https://www.fool.com/earnings/call-transcripts/2024/07/31/johnson-controls-international-plc-jci-q3-2024-ear/,output_JCI_2024-07-31.txt
+TEVA,2024-07-31,Q2 2024,4.1805738334327796,https://www.fool.com/earnings/call-transcripts/2024/07/31/teva-pharmaceutical-industries-teva-q2-2024-earnin/,output_TEVA_2024-07-31.txt
+HMC,2024-08-07,Q1 2025,5.567012410776392,https://www.fool.com/earnings/call-transcripts/2024/08/07/honda-motor-hmc-q1-2025-earnings-call-transcript/,output_HMC_2024-08-07.txt
+MGNX,2024-05-10,Q1 2024,9.477834721892888,https://www.fool.com/earnings/call-transcripts/2024/05/10/macrogenics-mgnx-q1-2024-earnings-call-transcript/,output_MGNX_2024-05-10.txt
+LUMN,2024-08-06,Q2 2024,3.4646314568941943,https://www.fool.com/earnings/call-transcripts/2024/08/06/lumen-technologies-lumn-q2-2024-earnings-call-tran/,output_LUMN_2024-08-06.txt
+GMED,2024-08-06,Q2 2024,-5.76800965342679,https://www.fool.com/earnings/call-transcripts/2024/08/06/globus-medical-gmed-q2-2024-earnings-call-transcri/,output_GMED_2024-08-06.txt
+LDI,2024-08-07,Q2 2024,2.5497828848020276,https://www.fool.com/earnings/call-transcripts/2024/08/07/loandepot-ldi-q2-2024-earnings-call-transcript/,output_LDI_2024-08-07.txt
+CPNG,2024-08-07,Q2 2024,-4.541146805723848,https://www.fool.com/earnings/call-transcripts/2024/08/07/coupang-cpng-q2-2024-earnings-call-transcript/,output_CPNG_2024-08-07.txt
+GO,2024-08-07,Q2 2024,-10.449029840936928,https://www.fool.com/earnings/call-transcripts/2024/08/07/grocery-outlet-go-q2-2024-earnings-call-transcript/,output_GO_2024-08-07.txt
+EXAS,2024-08-01,Q2 2024,1.6660970982743688,https://www.fool.com/earnings/call-transcripts/2024/08/01/exact-sciences-exas-q2-2024-earnings-call-transcri/,output_EXAS_2024-08-01.txt
+O,2024-08-06,Q2 2024,2.076635415416869,https://www.fool.com/earnings/call-transcripts/2024/08/06/realty-income-o-q2-2024-earnings-call-transcript/,output_O_2024-08-06.txt
+SNDL,2024-08-02,Q2 2024,-11.99532447123864,https://www.fool.com/earnings/call-transcripts/2024/08/02/sndl-sndl-q2-2024-earnings-call-transcript/,output_SNDL_2024-08-02.txt
+LGIH,2024-07-30,Q2 2024,-4.518191050134488,https://www.fool.com/earnings/call-transcripts/2024/07/30/lgi-homes-lgih-q2-2024-earnings-call-transcript/,output_LGIH_2024-07-30.txt
+FANG,2024-08-06,Q2 2024,-10.32973301686679,https://www.fool.com/earnings/call-transcripts/2024/08/06/diamondback-energy-fang-q2-2024-earnings-call-tran/,output_FANG_2024-08-06.txt
+MPC,2024-08-06,Q2 2024,-6.517327086470033,https://www.fool.com/earnings/call-transcripts/2024/08/06/marathon-petroleum-mpc-q2-2024-earnings-call-trans/,output_MPC_2024-08-06.txt
+LIND,2024-08-08,Q2 2024,24.821104627224255,https://www.fool.com/earnings/call-transcripts/2024/08/08/lindblad-expeditions-lind-q2-2024-earnings-call-tr/,output_LIND_2024-08-08.txt
+SHC,2024-08-05,Q2 2024,4.850467326930196,https://www.fool.com/earnings/call-transcripts/2024/08/05/sotera-health-shc-q2-2024-earnings-call-transcript/,output_SHC_2024-08-05.txt
+PGR,2024-02-27,Q4 2023,7.800530058806462,https://www.fool.com/earnings/call-transcripts/2024/02/27/progressive-pgr-q4-2023-earnings-call-transcript/,output_PGR_2024-02-27.txt
+KPTI,2024-08-06,Q2 2024,-11.25930594008209,https://www.fool.com/earnings/call-transcripts/2024/08/06/karyopharm-therapeutics-kpti-q2-2024-earnings-call/,output_KPTI_2024-08-06.txt
+NXPI,2024-07-23,Q2 2024,-3.639537314859652,https://www.fool.com/earnings/call-transcripts/2024/07/23/nxp-semiconductors-nxpi-q2-2024-earnings-call-tran/,output_NXPI_2024-07-23.txt
+CLF,2024-07-23,Q2 2024,-17.47026520821432,https://www.fool.com/earnings/call-transcripts/2024/07/23/cleveland-cliffs-clf-q2-2024-earnings-call-transcr/,output_CLF_2024-07-23.txt
+YUM,2024-08-06,Q2 2024,-3.029116023100072,https://www.fool.com/earnings/call-transcripts/2024/08/06/yum-brands-yum-q2-2024-earnings-call-transcript/,output_YUM_2024-08-06.txt
+ABCL,2024-08-07,Q2 2024,-10.62744255273099,https://www.fool.com/earnings/call-transcripts/2024/08/07/abcellera-biologics-abcl-q2-2024-earnings-call-tra/,output_ABCL_2024-08-07.txt
+MQ,2024-08-07,Q2 2024,-5.618038283628202,https://www.fool.com/earnings/call-transcripts/2024/08/07/marqeta-mq-q2-2024-earnings-call-transcript/,output_MQ_2024-08-07.txt
+PLTR,2024-08-05,Q2 2024,1.756233434251527,https://www.fool.com/earnings/call-transcripts/2024/08/05/palantir-technologies-pltr-q2-2024-earnings-call-t/,output_PLTR_2024-08-05.txt
+VRTX,2024-08-01,Q2 2024,-4.969136715390838,https://www.fool.com/earnings/call-transcripts/2024/08/01/vertex-pharmaceuticals-vrtx-q2-2024-earnings-call/,output_VRTX_2024-08-01.txt
+WYNN,2024-08-06,Q2 2024,1.7557046210703393,https://www.fool.com/earnings/call-transcripts/2024/08/06/wynn-resorts-wynn-q2-2024-earnings-call-transcript/,output_WYNN_2024-08-06.txt
+FRPT,2024-08-05,Q2 2024,2.7718695508714015,https://www.fool.com/earnings/call-transcripts/2024/08/05/freshpet-frpt-q2-2024-earnings-call-transcript/,output_FRPT_2024-08-05.txt
+BCRX,2024-08-05,Q2 2024,-1.7043560602303092,https://www.fool.com/earnings/call-transcripts/2024/08/05/biocryst-pharmaceuticals-bcrx-q2-2024-earnings-cal/,output_BCRX_2024-08-05.txt
+CEG,2022-08-04,Q2 2022,12.041404546650396,https://www.fool.com/earnings/call-transcripts/2022/08/04/constellation-energy-corporation-ceg-q2-2022-earni/,output_CEG_2022-08-04.txt
+SLQT,2024-09-13,Q2 2024,14.707093099263602,https://www.fool.com/earnings/call-transcripts/2024/09/13/selectquote-slqt-q4-2024-earnings-call-transcript/,output_SLQT_2024-09-13.txt
+CC,2024-08-02,Q2 2024,-5.96764132663641,https://www.fool.com/earnings/call-transcripts/2024/08/02/chemours-cc-q2-2024-earnings-call-transcript/,output_CC_2024-08-02.txt
+BNTX,2024-08-05,Q2 2024,9.855261578122724,https://www.fool.com/earnings/call-transcripts/2024/08/05/biontech-se-bntx-q2-2024-earnings-call-transcript/,output_BNTX_2024-08-05.txt
+ZTS,2024-08-06,Q2 2024,0.7656860808106454,https://www.fool.com/earnings/call-transcripts/2024/08/06/zoetis-zts-q2-2024-earnings-call-transcript/,output_ZTS_2024-08-06.txt
+SPG,2024-08-05,Q2 2024,4.189750413041661,https://www.fool.com/earnings/call-transcripts/2024/08/05/simon-property-group-spg-q2-2024-earnings-call-tra/,output_SPG_2024-08-05.txt
+YUMC,2024-08-06,Q2 2024,-0.545650047858802,https://www.fool.com/earnings/call-transcripts/2024/08/06/yum-china-yumc-q2-2024-earnings-call-transcript/,output_YUMC_2024-08-06.txt
+CPT,2024-08-02,Q2 2024,3.4183961870875397,https://www.fool.com/earnings/call-transcripts/2024/08/02/camden-property-trust-cpt-q2-2024-earnings-call-tr/,output_CPT_2024-08-02.txt
+CVX,2024-08-02,Q2 2024,-5.587675094255397,https://www.fool.com/earnings/call-transcripts/2024/08/02/chevron-cvx-q2-2024-earnings-call-transcript/,output_CVX_2024-08-02.txt
+VICI,2024-08-01,Q2 2024,-0.106274541147421,https://www.fool.com/earnings/call-transcripts/2024/08/01/vici-properties-vici-q2-2024-earnings-call-transcr/,output_VICI_2024-08-01.txt
+PRLB,2024-08-02,Q2 2024,-2.6594153971035075,https://www.fool.com/earnings/call-transcripts/2024/08/02/proto-labs-prlb-q2-2024-earnings-call-transcript/,output_PRLB_2024-08-02.txt
+NVT,2024-08-06,Q2 2024,-4.662739367927037,https://www.fool.com/earnings/call-transcripts/2024/08/06/nvent-electric-plc-nvt-q2-2024-earnings-call-trans/,output_NVT_2024-08-06.txt
+FUBO,2024-08-06,Q2 2024,29.569615231644097,https://www.fool.com/earnings/call-transcripts/2024/08/06/fubotv-fubo-q2-2024-earnings-call-transcript/,output_FUBO_2024-08-06.txt
+D,2024-08-01,Q2 2024,-4.260917078454368,https://www.fool.com/earnings/call-transcripts/2024/08/01/dominion-energy-d-q2-2024-earnings-call-transcript/,output_D_2024-08-01.txt
+XOM,2024-08-02,Q2 2024,-5.286951264197169,https://www.fool.com/earnings/call-transcripts/2024/08/02/exxonmobil-xom-q2-2024-earnings-call-transcript/,output_XOM_2024-08-02.txt
+NCLH,2024-07-31,Q2 2024,7.750353521060802,https://www.fool.com/earnings/call-transcripts/2024/07/31/norwegian-cruise-line-nclh-q2-2024-earnings-call-t/,output_NCLH_2024-07-31.txt
+CGNX,2024-08-02,Q2 2024,-2.677947294937878,https://www.fool.com/earnings/call-transcripts/2024/08/02/cognex-cgnx-q2-2024-earnings-call-transcript/,output_CGNX_2024-08-02.txt
+EPR,2024-08-02,Q2 2024,3.2410883879085475,https://www.fool.com/earnings/call-transcripts/2024/08/02/epr-properties-epr-q2-2024-earnings-call-transcrip/,output_EPR_2024-08-02.txt
+WEN,2024-08-01,Q2 2024,-7.631569100604615,https://www.fool.com/earnings/call-transcripts/2024/08/01/wendys-wen-q2-2024-earnings-call-transcript/,output_WEN_2024-08-01.txt
+TSLA,2024-10-23,Q3 2024 Earnings Call Transcript,31.77603521046648,https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/,output_TSLA_2024-10-23.txt
+GSHD,2024-07-25,Q3 2024 Earnings Call Transcript,-9.146656020780492,https://www.fool.com/earnings/call-transcripts/2024/07/25/goosehead-insurance-gshd-q2-2024-earnings-call-tra/,output_GSHD_2024-07-25.txt
+ALGN,2024-07-25,Q3 2024 Earnings Call Transcript,0.4910756124908322,https://www.fool.com/earnings/call-transcripts/2024/07/25/align-technology-algn-q2-2024-earnings-call-transc/,output_ALGN_2024-07-25.txt
+COOP,2024-10-23,Q3 2024 Earnings Call Transcript,6.163956798954182,https://www.fool.com/earnings/call-transcripts/2024/10/23/mr-cooper-group-coop-q3-2024-earnings-call-transcr/,output_COOP_2024-10-23.txt
+HIW,2024-10-23,Q3 2024 Earnings Call Transcript,-10.503228810748714,https://www.fool.com/earnings/call-transcripts/2024/10/23/highwoods-properties-hiw-q3-2024-earnings-call-tra/,output_HIW_2024-10-23.txt
+WGO,2024-10-23,Q4 2024 Earnings Call Transcript,3.461798120960664,https://www.fool.com/earnings/call-transcripts/2024/10/23/winnebago-industries-wgo-q4-2024-earnings-call-tra/,output_WGO_2024-10-23.txt
+ADC,2024-07-25,Q3 2024 Earnings Call Transcript,2.6482712579742747,https://www.fool.com/earnings/call-transcripts/2024/07/25/agree-realty-adc-q2-2024-earnings-call-transcript/,output_ADC_2024-07-25.txt
+BA,2024-10-23,Q3 2024 Earnings Call Transcript,-3.456479689181939,https://www.fool.com/earnings/call-transcripts/2024/10/23/boeing-ba-q3-2024-earnings-call-transcript/,output_BA_2024-10-23.txt
+KO,2024-07-23,Q3 2024 Earnings Call Transcript,0.8373096893411867,https://www.fool.com/earnings/call-transcripts/2024/07/23/coca-cola-ko-q2-2024-earnings-call-transcript/,output_KO_2024-07-23.txt
+EDU,2024-10-23,Q1 2025 Earnings Call Transcript,-13.153776796805158,https://www.fool.com/earnings/call-transcripts/2024/10/23/new-oriental-education-technology-group-edu-q1-202/,output_EDU_2024-10-23.txt
+NEE,2024-07-24,Q3 2024 Earnings Call Transcript,3.967765622169916,https://www.fool.com/earnings/call-transcripts/2024/07/24/nextera-energy-nee-q2-2024-earnings-call-transcrip/,output_NEE_2024-07-24.txt
+GD,2024-10-23,Q3 2024 Earnings Call Transcript,-9.802359643717567,https://www.fool.com/earnings/call-transcripts/2024/10/23/general-dynamics-gd-q3-2024-earnings-call-transcri/,output_GD_2024-10-23.txt
+T,2024-07-24,Q3 2024 Earnings Call Transcript,1.2029805317879618,https://www.fool.com/earnings/call-transcripts/2024/07/24/att-t-q2-2024-earnings-call-transcript/,output_T_2024-07-24.txt
+TMO,2024-07-24,Q3 2024 Earnings Call Transcript,-2.8574858172046405,https://www.fool.com/earnings/call-transcripts/2024/07/24/thermo-fisher-scientific-tmo-q2-2024-earnings-call/,output_TMO_2024-07-24.txt
+ENPH,2024-04-23,Q3 2024 Earnings Call Transcript,7.670600756854912,https://www.fool.com/earnings/call-transcripts/2024/04/23/enphase-energy-enph-q1-2024-earnings-call-transcri/,output_ENPH_2024-04-23.txt
+STX,2024-10-23,Q1 2025 Earnings Call Transcript,-4.205264078614436,https://www.fool.com/earnings/call-transcripts/2024/10/23/seagate-technology-plc-stx-q1-2025-earnings-call-t/,output_STX_2024-10-23.txt
+FCX,2024-10-22,Q3 2024 Earnings Call Transcript,-9.024622220600694,https://www.fool.com/earnings/call-transcripts/2024/10/22/freeport-mcmoran-fcx-q3-2024-earnings-call-transcr/,output_FCX_2024-10-22.txt
