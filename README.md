@@ -7,6 +7,6 @@ I then used domain adaptation on the base model using the attached business_sent
 
 To train the model, I first wrote a web-scraping script in python using getURLText.py to efficiently transfer the quarterly reports text into txt files stored on the primary csv file
 
-To obtain stock data, I used the yfinance api through Stock_Changes.py, allowing me to quickly access data and then compare to the S&P 500 over that same time.
+To obtain stock data, I used the yfinance api through Stock_Changes.py, allowing me to quickly access data and then compare to the S&P 500 over that same time. With this data, I was able to calculate a percent-change figure for the company's stock as compared to the S&P over a month long period.
 
 I am still making improvements to the model training as the outcome is currently lacking, so look for changes in the future.
